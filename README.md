@@ -1,3 +1,5 @@
+https://wyr.me/post650
+
 # go-cpu-load
 
 Generate CPU load on Windows/Linux/Mac.
